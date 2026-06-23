@@ -1,4 +1,4 @@
--- UNIVERSAL RAYFIELD AIMBOT v2.6 - COMPLETE FINAL EDITION
+-- UNIVERSAL v2.6 -
 -- All Features: Aimbot + Triggerbot + Item Check + NPC Aimbot + Full ESP + Movement + Visuals + Automatic ACBP
 
 local success, Rayfield = pcall(function()
